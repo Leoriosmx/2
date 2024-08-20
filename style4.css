@@ -1,0 +1,43 @@
+h1{
+    border: 1px solid black;
+    padding: 16px 0px 16px 0px;
+}
+#estados{
+    font-family: "Bungee Tint", sans-serif;
+}
+#municipios{
+    font-family: "DM Serif Text", serif;
+}
+#edo{
+    font-style:italic ;
+}
+
+
+#receta{
+    font-family: "Grey Qo", cursive;
+    font-size: 70px;
+    background-color: beige;
+}
+
+
+#idg{
+    background-color: yellowgreen;
+    
+}
+
+
+#eco{
+    background-image: url(./eco.avif);
+}
+#medi{
+    background-image: url(./salud.jpg);
+}
+#antro{
+    background-color: beige;
+}
+#dise{
+background-color: chocolate;
+}
+#arqui{
+background-color: cadetblue;
+}

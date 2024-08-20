@@ -1,0 +1,19 @@
+h1{
+    font-family: "DM Serif Text", serif;
+}
+h3{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+p{
+    font-family: "Cormorant Garamond", serif;
+color: black;
+font-size: 20px;
+}
+
+li{
+font-style: italic;
+}
+
+body{
+    background-image: url(./fondoapp.jpg);
+}
